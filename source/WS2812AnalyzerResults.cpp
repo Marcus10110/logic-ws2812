@@ -3,6 +3,7 @@
 #include "WS2812Analyzer.h"
 #include "WS2812AnalyzerSettings.h"
 #include <fstream>
+#include <cstdlib>
 
 WS2812AnalyzerResults::WS2812AnalyzerResults(WS2812Analyzer *analyzer, WS2812AnalyzerSettings *settings)
     :   AnalyzerResults(),
