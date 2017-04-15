@@ -4,3 +4,11 @@
 /include
 /lib
 /release/
+
+# Visual Studio stuff
+Debug/
+Release/
+*.VC.db
+*.VC.opendb
+*.suo
+*.sln.ecd
